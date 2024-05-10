@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Seif Sebai</h1>
 <h3 align="center">A passionate developer / Infosec enthusiast!!</h3>
 
-- 👨‍💻 All of my projects are available at [seifsebai.com](seifsebai.com)
+- 👨‍💻 All of my projects are available at <a href="seifsebai.com">seifsebai.com</a>
 
 - 📫 Email: **saif.sebai@ensi-uma.tn**
 
