@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <h1 align="center">Hi 👋, I'm Seif Sebai</h1>
 <h3 align="center">A passionate developer / Infosec enthusiast!!</h3>
