@@ -5,7 +5,9 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://seifsebai.com">seifsebai.com</a>
 
-- 📫 Email: **saif.sebai@ensi-uma.tn**
+- 📫 Emails:
+- Uni: **saif.sebai@ensi-uma.tn**
+- Professional: **contact@seifsebai.com**
 
 
 
