@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://saif-sebai.github.io/">saif-sebai.github.io</a>
 
+- 👨‍💻 I also have blogs at <a href="https://blogs.seifsebai.com/">blogs.seifsebai.com</a>
+
 📫 Emails:
 - Uni: **saif.sebai@ensi-uma.tn**
 - Professional: **contact@seifsebai.com**
