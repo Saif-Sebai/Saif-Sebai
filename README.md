@@ -9,7 +9,6 @@
 
 📫 Emails:
 - Uni: **saif.sebai@ensi-uma.tn**
-- Professional: **contact@seifsebai.com**
 
 
 
